@@ -1,0 +1,15 @@
+{
+  "name": "easel-joints",
+  "version": "1.0.0",
+  "description": "Parametric Joints for Easel",
+  "main": "./index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "easel",
+    "parametric"
+  ],
+  "author": "Chris Duggin",
+  "license": "ISC"
+}
